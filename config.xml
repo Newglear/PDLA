@@ -1,0 +1,48 @@
+<?xml version ="1.0" encoding="iso-8859-1" ?>
+
+<Projects>
+    <Project1 name="Nom1">
+        <libs>
+            <lib1>
+                <name> Nom1 </name>
+                <version> Version 1 </version>
+                <description> Description </description>
+            </lib1>>
+            <lib2>
+                <name> Nom2 </name>
+                <version> Version 2 </version>
+                <description> Description </description>
+            </lib2>
+        </libs>
+        <Server>
+            <Nom> Nom </Nom>
+            <link> URL </link>
+        </Server>
+        <Server>
+            <Nom> Nom </Nom>
+            <link> URL </link>
+        </Server>
+    </Project1>
+    <Project1 name="Nom2">
+        <libs>
+            <lib1>
+                <name> Nom1 </name>
+                <version> Version 1 </version>
+                <description> Description </description>
+            </lib1>>
+            <lib2>
+                <name> Nom2 </name>
+                <version> Version 2 </version>
+                <description> Description </description>
+            </lib2>
+        </libs>
+        <Server>
+            <Nom> Nom </Nom>
+            <link> URL </link>
+        </Server>
+        <Server>
+            <Nom> Nom </Nom>
+            <link> URL </link>
+        </Server>
+    </Project1>
+</Projects>

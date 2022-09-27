@@ -1,0 +1,42 @@
+{
+  "projects":[
+    {
+      "name" : "Nom1",
+      "libs": {
+        "lib1":{
+          "Name": "Nom1",
+          "Version": "Version1",
+          "description": "GROSSE DECRIPTION"
+        },
+        "lib2":{
+          "Name": "Nom2",
+          "Version": "Version2",
+          "description": "GROSSE DECRIPTION BIS"
+        }
+      },
+      "Server" : {
+        "Name": "Nom1",
+        "URL" : "URL"
+      }
+    },
+    {
+      "name" : "Nom2",
+      "libs": {
+        "lib1":{
+          "Name": "Nom1",
+          "Version": "Version2",
+          "description": "GROSSE DECRIPTION"
+        },
+        "lib2":{
+          "Name": "Nom2",
+          "Version": "Version2",
+          "description": "GROSSE DECRIPTION BIS"
+        }
+      },
+      "Server" : {
+        "Name": "Nom1",
+        "URL" : "URL"
+      }
+    }
+  ]
+}

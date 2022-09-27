@@ -1,0 +1,26 @@
+project:
+  -project1:
+    -Lib:
+      Name: "Nom 1"
+      Version: "Version 1"
+      Descritption: "Grosse Description"
+    -Lib2:
+      Name: "Nom 2"
+      Version: "Ver 2"
+      Description: "Grosse Description 2"
+    -Server:
+      Name: "Name"
+      URL: "DuCuir.com"
+  -project2:
+    -Lib:
+      Name: "Nom 1"
+      Version: "Version 1"
+      Descritption: "Grosse Description"
+    -Lib2:
+      Name: "Nom 2"
+      Version: "Ver 2"
+      Description: "Grosse Description 2"
+    -Server:
+      Name: "Name"
+      URL: "machin.com"
+
