@@ -15,6 +15,7 @@
         }
       },
       "Server" : {
+	"J esais pas"  : "J'en sais rien ",     
         "Name": "Nom1",
         "URL" : "URL"
       }
